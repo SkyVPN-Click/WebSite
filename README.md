@@ -1,2 +1,2 @@
-# WebSite
-skyvpn.click
+# SkyVPN - Um servidor de VPN no Barsil.
+com.skyvpn.click
